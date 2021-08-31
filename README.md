@@ -17,13 +17,13 @@ I'm Han0nly, I'm a Full Stack developer 👨‍💻 who is passionate about Java
   <a href="https://github.com/Han0nly/github-readme-stats">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api?username=DanielObara&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=radical"
+      src="https://github-readme-stats.vercel.app/api?username=Han0nly&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=radical"
     />
   </a>
    <a href="https://github.com/Han0nly/github-readme-stats">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielObara&layout=compact&theme=radical" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Han0nly&layout=compact&theme=radical" />
   </a>  
 </p>
 
