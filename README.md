@@ -4,7 +4,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=green) -->
 
 ## Hi 👋, 
-I'm Han0nly, I'm a System Security Researcher, working in Washington University in St. Louis and Xidian University for Ph.D. I'm passionate about spider technologies and its entire ecosystem. 
+I'm Han0nly, a System Security Researcher, working in Washington University in St. Louis and Xidian University for Ph.D. I'm passionate about spider technologies and its entire ecosystem. 
 
 - 🔭 I’m currently working on Android secutiy and Trusted Execution Environment (TEE).
 - 🌱 I have experience in  Web Crawler, LLVM Pass, Hyperledger Fabric Chaincode.
