@@ -4,12 +4,12 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=green) -->
 
 ## Hi 👋, 
-I'm Han0nly, I'm a Full Stack developer 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem. 
+I'm Han0nly, I'm a System Security Researcher, working in Washington University in St. Louis and Xidian University for Ph.D. I'm passionate about spider technologies and its entire ecosystem. 
 
-- 🔭 I’m currently working on JavaScript apps/systems
-- 🌱 I’m currently learning NestJS, ObjectionJS, AWS and of course JS improvements
-- 💬 Ask me about: tech, karate, anime and a little bit about investments.
--  ⚡ Technologies: React, Node, React-Native, Sequelize, Typeorm, Express, Redux, Storybook.
+- 🔭 I’m currently working on Android secutiy and Trusted Execution Environment (TEE).
+- 🌱 I have experience in  Web Crawler, LLVM Pass, Hyperledger Fabric Chaincode.
+- 💬 I'm used to using these languages: Python, C/C++, Java, Bash.
+-  ⚡ I'm looking forward to paticipant in some investment-related projects, preferably digital currency trading.
 
 "Do not expect from others wht you expect of yourself." 
 
