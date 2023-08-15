@@ -6,7 +6,7 @@
 ## Hi 👋, 
 I'm Han0nly, a system security researcher, working in Xidian University for Ph.D. I'm passionate about spider technologies and its entire ecosystem. 
 
-- 🔭 I’m currently working on Android secutiy and Trusted Execution Environment (TEE).
+- 🔭 I’m currently working on Android security and Trusted Execution Environment (TEE).
 - 🌱 I have experience in  Web Crawler, LLVM Pass, Hyperledger Fabric Chaincode.
 - 💬 I'm used to using these languages: Python, C/C++, Java, Bash.
 -  ⚡ I'm looking forward to paticipant in some investment-related projects, preferably digital currency trading.
